@@ -1,0 +1,1 @@
+saltadder tool use to adding salt during Encryption and Decryption plain text 
